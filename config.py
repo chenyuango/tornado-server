@@ -1,0 +1,7 @@
+PORT = 8888
+PROCESSES = 4
+
+SYS_LOG_LEVEL = "INFO"
+SYS_LOG_PATH = '/tmp/sys.log'
+DATA_LOG_LEVEL = "INFO"
+DATA_LOG_PATH = '/tmp/data.log'
