@@ -1,3 +1,5 @@
 tornado
+asyncio
 motor
 pymongo >= 3.6.0
+aioredis >= 1.0
